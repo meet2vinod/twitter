@@ -1,0 +1,91 @@
+.parent{
+    margin: 20px;
+    display: grid;
+    grid-template-rows: 2fr 2fr 2fr;
+    height: 100px;
+    padding-left: 10px;
+    line-height: 20px;
+    padding-top: 0px;
+}
+
+.child1{
+    background-color: white;
+    /* margin-top: 35px; */
+}
+
+.child2{
+    background-color: white;
+   
+}
+.child3{
+    margin-left: 172px;
+}
+.child4{
+    background-color: white;
+  
+}
+
+.button{
+    background-color: white;
+    width: 361px;
+    height: 44px;
+    border: 1px solid rgb(241, 238, 238);
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 10px;
+    
+    
+}
+
+.google{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    font-family: inherit;
+}
+.apple{
+    color: rgb(15, 20, 25);
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    font-family: "TwitterChirp", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.blue{
+    background-color: rgb(29, 155, 240);
+    color: white;
+    font-family: inherit;
+    font-weight: 0;
+    font-size: 20px;
+    line-height: 20px;
+}
+.parent2{
+   display: flex;
+  flex-direction: column;
+  margin: 37px;
+  font-weight: 700;
+  font-size: 30px;
+  padding-top: 110px;
+   padding-left: 10px;
+   height: 50px;
+}
+
+.childsecond{
+    padding-left: 0px;
+    margin-left: -25px
+}
+
+.signin{
+    background-color: white;
+    color: rgb(29, 155, 240);
+    font-weight: 800;
+    font-size: 20px;
+    font-family: inherit;
+    width: 361px;
+    height: 44px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 21px;
+    padding-left: 18px;
+}

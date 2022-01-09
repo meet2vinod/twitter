@@ -1,0 +1,25 @@
+footer{margin: 0;
+    color: grey;
+    text-align: center;
+    display: inline;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+   
+}
+
+
+ul li{
+    font-family: inherit;
+    cursor:pointer;
+    display:inline;
+    padding:3px;
+    padding-bottom:12px;
+    padding-top:12px; 
+     
+  
+}
+.footertwo{
+    margin: 5px;
+}
