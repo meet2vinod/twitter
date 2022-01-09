@@ -1,0 +1,68 @@
+.container{
+    height: 100px;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.leftcontainer{
+    background-color: rgb(247, 243, 12);
+    height: 100%;
+    border: 2px solid red;
+}
+
+.image>img{
+    height: 100%;
+}
+
+.rightcontainer{
+    background-color: white;
+    height: 100%;
+    border: 2px solid red;
+}
+.header{
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 60px 60px 0px 50px;
+}
+.header2{
+    font-weight: bold;
+}
+
+}
+.logo{
+    color: rgb(29, 155, 240);
+    size: 20px;
+}
+.google{
+padding-left: 6px;
+padding-bottom: 5px;
+font-weight: bold;
+}
+.apple{
+ padding-left: 6px;
+padding-top: 6px;
+
+}
+.phone{
+padding-left: 6px;
+}
+ul li{
+  display: inline;
+  padding: 3px;
+}
+.footer2{
+text-align: center;
+}
+/* .button{
+background-color: whitesmoke;
+width: 361px;
+height: 43px;
+border: 2px solid rgb(255, 255, 255);
+border-radius: 20px;
+} */
+
+
+.third{
+    background-color: rgb(29, 155, 240);
+}
